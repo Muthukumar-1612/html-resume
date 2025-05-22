@@ -4,8 +4,8 @@ This is a simple, responsive resume built using HTML with inline CSS. It showcas
 
 ## 📌 Features
 
-- Fully responsive design
-- Clean and modern layout
-- Sections for personal info, education, skills, and experience
+- Built with only HTML and inline CSS
+- Clean and minimal design
+- Quick to load and easy to customize
 
 https://muthukumar-1612.github.io/html-resume/
