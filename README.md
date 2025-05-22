@@ -1,6 +1,6 @@
 # HTML Resume
 
-This is a simple, responsive resume built using HTML and CSS. It showcases personal, educational, and professional information in a clean layout suitable for online viewing.
+This is a simple, responsive resume built using HTML with inline CSS. It showcases personal, educational, and professional information in a clean layout suitable for online viewing.
 
 ## 📌 Features
 
